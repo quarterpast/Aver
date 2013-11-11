@@ -1,0 +1,32 @@
+{
+  "name": "aver",
+  "version": "0.0.0",
+  "description": "ultraminimal test dsl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:quarterto/Aver"
+  },
+  "keywords": [
+    "test",
+    "tdd",
+    "bdd",
+    "dsl",
+    "wtf",
+    "bbq"
+  ],
+  "author": "Matt Brennan <mwrbrennan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quarterto/Aver/issues"
+  },
+  "dependencies": {
+    "colors": "~0.6.2"
+  },
+  "devDependencies": {
+    "LiveScript": "~1.2.0"
+  }
+}
